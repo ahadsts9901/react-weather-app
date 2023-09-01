@@ -1,0 +1,9 @@
+#root{
+    width: 100vw;
+    height: 100vh;
+    padding: 1em;
+}
+
+form{
+    box-shadow: 0 0 16px #000;
+}
